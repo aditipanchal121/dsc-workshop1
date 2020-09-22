@@ -1,2 +1,4 @@
-# dsc-workshop1
-Test file to show Open Source contributing process for DSC TAMU Workshop
+# DSC TAMU OPEN SOURCE WORKSHOP
+
+Contributors:
+- Aditi Panchal
